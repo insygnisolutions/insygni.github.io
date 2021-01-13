@@ -445,6 +445,13 @@ hr {
   transition: 0.3s;
 }
 
+.circle-img {
+  widows: 200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 /* Create an active/current tablink class */
 
 .tabcontent {
