@@ -4985,7 +4985,7 @@ html {
     opacity: 1;
   }
   100% {
-    transform: translateY(-1800px) rotate(0deg);
+    transform: translateY(-1300px) rotate(0deg);
     opacity: 0;
   }
 }
@@ -5009,4 +5009,18 @@ html {
   100% {
     transform: translate(0, -0px);
   }
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+  align-content: center;
+}
+
+.customFont {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
 }
